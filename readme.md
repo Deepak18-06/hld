@@ -4,3 +4,6 @@
 
 ## RateLimiter
 ![RateLimiter](https://github.com/Deepak18-06/hld/blob/main/images/rate%20Limiter.png)
+
+## WEB CRAWLER
+![Web Crawler](https://github.com/Deepak18-06/hld/blob/main/images/web-crawler.svg)
