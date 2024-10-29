@@ -13,3 +13,6 @@
 
 ## WEB CRAWLER
 ![Web Crawler](https://github.com/Deepak18-06/hld/blob/main/images/web-crawler.svg)
+
+## Parking Garage
+![Parking Garge](https://github.com/Deepak18-06/hld/blob/main/images/parking_garage.svg)
