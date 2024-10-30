@@ -41,7 +41,11 @@
 
 </details>
 
+</details>
+
 <details>
-  <summary><strong>BookMyShow/TicketMaster</strong></summary>
-  ![BookMyShow/Tikcetmaster](https://github.com/Deepak18-06/hld/blob/main/images/ticketmaster1.svg)
+<summary><strong>BookMyShow</strong></summary>
+
+![BookMyShow](https://github.com/Deepak18-06/hld/blob/main/images/ticketmaster1.svg)
+
 </details>
